@@ -1,7 +1,7 @@
 #include <sys/mman.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>  // Agregamos la inclusión d la cabecera para evit
+#include <string.h>  // Agregamos la inclusión d la cabecera para e
 #include <unistd.h>
 #include <sys/wait.h>
 
