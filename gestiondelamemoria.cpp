@@ -1,7 +1,7 @@
 #include <sys/mman.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>  // Agregamos la inclusión d la cabecera para evitar advertencias
+#include <string.h>  // Agregamos la inclusión d la cabecera para evitar advertenci
 #include <unistd.h>
 #include <sys/wait.h>
 
